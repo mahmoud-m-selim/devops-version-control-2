@@ -1,0 +1,7 @@
+To list tags: git tag or git tag --list
+
+To delete a tag:
+
+-Locally: git tag -d localTagName
+
+-Remotely:git push origin --delete remoteTagName
